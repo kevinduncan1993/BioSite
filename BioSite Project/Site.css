@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    padding-bottom: 10%;
+}
+
+button{
+    color: white;
+    background-color: green;
+    font-style: oswald;
+}
+
+
+  
+  
+  .gallery img {
+    width: 200%;
+    height: 350;
+    border: 20px;
+    
+  }
+  
+  .gallery {
+    margin: 5px;
+    float: left;
+    width: 180px;
+    padding-right: 20%;
+    
+
+  }
+  button{
+      float: right;
+      margin-top: 10%;
+  }
+  
+  p{
+     text-align: center;
+    color:black;
+  }
+
+  figcaption{
+      text-align: center;
+  }
+
+  footer{
+      margin-bottom: 100%;
+  }
